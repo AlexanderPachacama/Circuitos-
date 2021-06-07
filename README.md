@@ -1,7 +1,9 @@
 # PRÁCTICA No. 1 LEYES DE  KIRCHHOFF
 ## 1. OBJETIVOS 
+
 -Aplicar la ley de voltaje y corriente de Kirchhoff
 -
+
 ## 2 MARCO TEÓRICO
 
 

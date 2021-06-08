@@ -17,6 +17,9 @@ Materiales y equipos
 
 ![T1](https://user-images.githubusercontent.com/84425276/121115381-a2058200-c7da-11eb-9534-f9a6ea2b5f66.PNG)
 
+![WhatsApp Image 2021-06-07 at 10 59 19 PM (1)](https://user-images.githubusercontent.com/84458025/121122067-65d81e80-c7e6-11eb-9730-407e712769ed.jpeg)
+
+
 PROCEDIMIENTO
 
 Arme el circuito que se muestra en la figura 1.1. 

@@ -46,6 +46,7 @@ Ejemplo practico.
 
 4.1 Circuito Resistivo Mixto armado en Tinkercad.
 
+![image](https://user-images.githubusercontent.com/84431598/121126053-26f99700-c7ed-11eb-95e7-9c333d0c4761.png)
 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del circuito.

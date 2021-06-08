@@ -74,18 +74,14 @@ Tabla 1.2.Verificación de la LVK.
 
 Tabla 1.3.Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/84431598/121183389-a2793980-c829-11eb-853f-a0f434672850.png)
-
-
-![image](https://user-images.githubusercontent.com/84431598/121182397-abb5d680-c828-11eb-9769-7d918fec7467.png)
-
+![image](https://user-images.githubusercontent.com/84431598/121188074-5da3d180-c82e-11eb-88bc-b78b7a2b8741.png)
 
 
 4.2. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 -	Los valores medidos y los valores calculados coinciden con un mínimo error.
 
-Cálculos:
+### CÁLCULOS
 
 Tabla 1.1.
 

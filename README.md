@@ -47,6 +47,7 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del ci
 
 Tabla 1.2.Verificación de la LVK.
 
+![T1 2](https://user-images.githubusercontent.com/84425276/121124541-bb162f00-c7ea-11eb-8f4e-94a9691a3549.PNG)
 
 Tabla 1.3.Verificación de la LCK.
 

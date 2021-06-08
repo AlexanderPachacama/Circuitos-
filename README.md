@@ -25,6 +25,8 @@ Arme el circuito que se muestra en la figura 1.1.
 
 ## 5. VIDEO
 
+https://youtu.be/bCQ2LHZooYo
+
 ## 6. CONCLUSIONES
 
 ## 7. BIBLIOGRAFÍA

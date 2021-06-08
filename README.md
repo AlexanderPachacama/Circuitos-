@@ -107,9 +107,9 @@ https://youtu.be/bCQ2LHZooYo
 
 ## 6. CONCLUSIONES
 
-- Los valores de la Tabla 1.1 coinciden con un error mínimo.
+- Los valores de la tabla 1.1 coinciden con un error mínimo.
 
-- La sumatoria de los voltajes, de la Tabla 1.2, en la trayectoria 1, trayectoria 2 y trayectoria 3 es igual a cero, cumpliendo así la Ley de Kirchhoff de Voltajes.
+- La sumatoria de los voltajes, de la tabla 1.2, en la trayectoria 1, trayectoria 2 y trayectoria 3 es igual a cero, cumpliendo así la Ley de Kirchhoff de Voltajes.
 
 - El simulador utilizado para medir voltajes y corrientes en las resistencias se volvió inestable, por lo que se recomienda realizar esta práctica con instrumentos reales en el Laboratorio de Circuitos Eléctricos.
 

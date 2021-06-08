@@ -27,6 +27,14 @@
 
 3.2.1. Arme el circuito que se muestra en la figura 1.1. 
 
+Observamos la figura para determinar que es un circuito mixto un vez determinado esto procedemos a armar el circuitos para lo cual requerimos conocimiento del manejo del protoboard en esta ocasión utilizaremos el simulador tinkercad el cual nos permite tener una simulación cercana a una real, para esto entramos en nuestro navegador y digitaremos la pagina web del simulador, una vez allí no dirigimos a componentes y seleccionaremos lo que vamos a utilizar en este casa seria las resistencias con lo valores determinados en diagrama esquemático y las colocaremos en nuestro protoboard digital el mismo procedimiento seguiríamos en nuestro protoboard ,seguimos en diagrama esquemático y realizamos nuestro circuito una vez terminado realizamos las respectivas mediciones y anotamos en nuestra tabla de datos .  
+
+Ejemplo practico.
+
+![image](https://user-images.githubusercontent.com/84458025/121125716-a0dd5080-c7ec-11eb-9955-146c69c9a177.png)
+
+
+
 ![F1 1](https://user-images.githubusercontent.com/84425276/121115517-d1b48a00-c7da-11eb-8a47-5ba6397d388f.PNG)
 
 3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de lasmedciones en la tabla 1.1.

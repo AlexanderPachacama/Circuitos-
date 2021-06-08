@@ -152,8 +152,9 @@ https://youtu.be/bCQ2LHZooYo
 
 - El simulador utilizado para medir voltajes y corrientes en las resistencias se volvió inestable, por lo que se recomienda realizar esta práctica con instrumentos reales en el Laboratorio de Circuitos Eléctricos.
 
+-  Se comprodo la  Ley de Corrientes de Kirchhoff ya que la suma de las resistencias de un nodo fue igual a cero.
 
-
+-  La suma de corrientes entrantes es igual a la suma de corrientes salientes, clos valores calculados y los medidos son casi iguales ya que varian por una décimas.
 
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
 

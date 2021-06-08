@@ -17,7 +17,12 @@ Materiales y equipos
 
 ![T1](https://user-images.githubusercontent.com/84425276/121115381-a2058200-c7da-11eb-9534-f9a6ea2b5f66.PNG)
 
-![WhatsApp Image 2021-06-07 at 10 59 19 PM (1)](https://user-images.githubusercontent.com/84458025/121122067-65d81e80-c7e6-11eb-9730-407e712769ed.jpeg)
+![image](https://user-images.githubusercontent.com/84458025/121122278-c1a2a780-c7e6-11eb-9bfd-fc21b459f45e.png)
+
+![image](https://user-images.githubusercontent.com/84458025/121122339-df700c80-c7e6-11eb-8c40-16295388eaed.png)
+
+![image](https://user-images.githubusercontent.com/84458025/121122371-f282dc80-c7e6-11eb-9643-070593f7d7fc.png)
+
 
 
 PROCEDIMIENTO

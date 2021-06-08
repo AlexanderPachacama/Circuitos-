@@ -1,7 +1,11 @@
 # PRÁCTICA No. 1 LEYES DE  KIRCHHOFF
 ## 1. OBJETIVOS 
+### OBJETIVO GENERAL
 
 - Aplicar la ley de voltaje y corriente de Kirchhoff utilizando un simulador virtual.
+
+### OBJETIVOS ESPECÍFICOS
+
 - Verificar que los valores medidos en la práctica realizada en el simulador Tinkercad coincidan con los valores calculados de las corrientes y voltajes.
 - Demostrar que se cumplen correctamente las Leyes de Kirchhoff en la trayectoria 1, trayectoria 2 y trayectoria 3 en el circuito principal.
 - Definir el término nodo.

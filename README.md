@@ -43,6 +43,8 @@ Ejemplo práctico.
 
 ![A](https://user-images.githubusercontent.com/84425276/121133085-89579500-c7f7-11eb-92e3-0815ec5b7bf1.PNG)
 
+![image](https://user-images.githubusercontent.com/84425276/121139042-f0784800-c7fd-11eb-80c3-4fbc28edb21d.png)
+
 3.2.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 3.2.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.

@@ -2,7 +2,9 @@
 ## 1. OBJETIVOS 
 
 - Aplicar la ley de voltaje y corriente de Kirchhoff
--
+- Definir el término nodo.
+- Determinar la corriente total sumando las corrientes de cada rama.
+- Comparar tanto el valor calculado y medido , de las corrientes y voltajes.
 
 ## 2 MARCO TEÓRICO
 

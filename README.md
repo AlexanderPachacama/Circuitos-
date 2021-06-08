@@ -1,10 +1,10 @@
 # PRÁCTICA No. 1 LEYES DE  KIRCHHOFF
 ## 1. OBJETIVOS 
-### OBJETIVO GENERAL
+#### OBJETIVO GENERAL
 
 - Aplicar la ley de voltaje y corriente de Kirchhoff utilizando un simulador virtual.
 
-### OBJETIVOS ESPECÍFICOS
+#### OBJETIVOS ESPECÍFICOS
 
 - Verificar que los valores medidos en la práctica realizada en el simulador Tinkercad coincidan con los valores calculados de las corrientes y voltajes.
 - Demostrar que se cumplen correctamente las Leyes de Kirchhoff en la trayectoria 1, trayectoria 2 y trayectoria 3 en el circuito principal.
@@ -27,15 +27,15 @@
 
 ![image](https://user-images.githubusercontent.com/84458025/121122278-c1a2a780-c7e6-11eb-9bfd-fc21b459f45e.png)
 
-                       *Figura 1: Fuente de voltaje de C.D.*
+   *Figura 1: Fuente de voltaje de C.D.*
 
 ![image](https://user-images.githubusercontent.com/84458025/121122339-df700c80-c7e6-11eb-8c40-16295388eaed.png)
 
-                          *Figura 2: Multimetro digital* 
+   *Figura 2: Multimetro digital* 
 
 ![image](https://user-images.githubusercontent.com/84458025/121122371-f282dc80-c7e6-11eb-9643-070593f7d7fc.png)
 
-                        *Figura 3: Protoboard y resistores*
+   *Figura 3: Protoboard y resistores*
 
 3.2. PROCEDIMIENTO
 
@@ -49,17 +49,17 @@ Ejemplo práctico.
 
 ![image](https://user-images.githubusercontent.com/84458025/121125716-a0dd5080-c7ec-11eb-9955-146c69c9a177.png)
 
-                        *Figura 4: Ejemplo práctico*
+   *Figura 4: Ejemplo práctico*
 
 3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 ![image](https://user-images.githubusercontent.com/84425276/121139042-f0784800-c7fd-11eb-80c3-4fbc28edb21d.png)
 
-                                       *Figura 5: Medición de voltaje*
+   *Figura 5: Medición de voltaje*
 
 ![A](https://user-images.githubusercontent.com/84425276/121133085-89579500-c7f7-11eb-92e3-0815ec5b7bf1.PNG)
 
-                                      *Figura 6: Medición de corriente*
+   *Figura 6: Medición de corriente*
 
 3.2.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
@@ -71,7 +71,7 @@ Ejemplo práctico.
 
 ![image](https://user-images.githubusercontent.com/84431598/121126053-26f99700-c7ed-11eb-95e7-9c333d0c4761.png)
 
-                                       *Figura 7: Simulación del circuito* 
+   *Figura 7: Simulación del circuito* 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del circuito.
 

@@ -13,8 +13,12 @@
 
 ## 2 MARCO TEÓRICO
 
+<p align="center">
+
 ![image](https://user-images.githubusercontent.com/84431598/121119880-168fef00-c7e2-11eb-84e9-005a36afcd7e.png)
 
+  </p>
+  
 ## 3 EXPLICACIÓN DEL PROCEDIMIENTO
 
 3.1. Materiales y equipos
@@ -73,6 +77,8 @@ Tabla 1.3.Verificación de la LCK.
 ![image](https://user-images.githubusercontent.com/84431598/121182310-92ad2580-c828-11eb-983b-0b265fc98766.png)
 
 ![image](https://user-images.githubusercontent.com/84431598/121182397-abb5d680-c828-11eb-9769-7d918fec7467.png)
+
+
 
 4.2. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 

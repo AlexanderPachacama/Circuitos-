@@ -99,6 +99,21 @@ Resolviendo este sistema de tres ecuaciones con tres incógnitas se obtiene los 
 
 ![5](https://user-images.githubusercontent.com/84425276/121124179-185db080-c7ea-11eb-9075-303ccbce34e4.PNG)
 
+Tabla 1.3.
+
+
+![image](https://user-images.githubusercontent.com/84431598/121189763-030b7500-c830-11eb-96a0-4651dac342cf.png)
+
+
+Para calcular la suma de corrientes en nodo tenemos que tener en cuenta que las corrientes que entran al nodo van con signo positivo y las corrientes que salen del nodo  van con signo negativo de nodo:
+
+![image](https://user-images.githubusercontent.com/84431598/121190932-1ff47800-c831-11eb-8c48-27667cdcf1b7.png)
+
+
+
+
+
+
 Calculo del Error:
 
 ![8](https://user-images.githubusercontent.com/84425276/121125358-0d0b8480-c7ec-11eb-9076-f667a7832b3e.PNG)

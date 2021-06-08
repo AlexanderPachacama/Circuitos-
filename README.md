@@ -29,7 +29,9 @@ Arme el circuito que se muestra en la figura 1.1.
 
 ## 7. BIBLIOGRAFÍA
 
-
+Alexander, C. (2006). Fundamentos de Circuitos Eléctricos, 5ta Ed.
+Floyd,T.(2007).Principios de Circuitos Eléctricos, 8va Ed. México:Pearson Educación.
+Edminister,J. Nahvi,M. Circuitos Eléctricos, 3ra Ed. España: McGraw-Hill.
 
 
 

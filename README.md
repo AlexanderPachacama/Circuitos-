@@ -109,8 +109,9 @@ Para calcular la suma de corrientes en nodo tenemos que tener en cuenta que las 
 
 ![image](https://user-images.githubusercontent.com/84431598/121190932-1ff47800-c831-11eb-8c48-27667cdcf1b7.png)
 
+Cabe recalcar que se necesita la corriente total para poder realizar los calculos en el nodo 1 y 5, tendremos que agrupar primero las ramas en paralelo, y calcular su resistencia hasta que al final solo tengamos un circuito con resistencias en serie. Finalmente agrupamos las resistencias en serie para calcular la  equivalente y obtendremos la total. Aplicamos la formula de la corriente  y de esa forma ya tenemos la corriente total
 
-
+![image](https://user-images.githubusercontent.com/84431598/121195103-f0e00580-c834-11eb-93c6-52e435f18afa.png)
 
 
 

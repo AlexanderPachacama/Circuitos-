@@ -39,7 +39,7 @@ Ejemplo práctico.
 
 ![image](https://user-images.githubusercontent.com/84458025/121125716-a0dd5080-c7ec-11eb-9955-146c69c9a177.png)
 
-3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de lasmedciones en la tabla 1.1.
+3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 ![A](https://user-images.githubusercontent.com/84425276/121133085-89579500-c7f7-11eb-92e3-0815ec5b7bf1.PNG)
 
@@ -70,6 +70,9 @@ Tabla 1.2.Verificación de la LVK.
 
 Tabla 1.3.Verificación de la LCK.
 
+![image](https://user-images.githubusercontent.com/84431598/121182310-92ad2580-c828-11eb-983b-0b265fc98766.png)
+
+![image](https://user-images.githubusercontent.com/84431598/121182397-abb5d680-c828-11eb-9769-7d918fec7467.png)
 
 4.2. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 

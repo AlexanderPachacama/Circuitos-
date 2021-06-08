@@ -1,19 +1,19 @@
 # PRÁCTICA No. 1 LEYES DE  KIRCHHOFF
 ## 1. OBJETIVOS 
 
-- Aplicar la ley de voltaje y corriente de Kirchhoff
+- Aplicar la ley de voltaje y corriente de Kirchhoff utilizando un simulador virtual.
+- Verificar que los valores medidos en la práctica realizada en el simulador Tinkercad coincidan con los valores calculados de las corrientes y voltajes.
+- Demostrar que se cumplen correctamente las Leyes de Kirchhoff en la trayectoria 1, trayectoria 2 y trayectoria 3 en el circuito principal.
 - Definir el término nodo.
 - Determinar la corriente total sumando las corrientes de cada rama.
-- Comparar tanto el valor calculado y medido , de las corrientes y voltajes.
 
 ## 2 MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/84431598/121119880-168fef00-c7e2-11eb-84e9-005a36afcd7e.png)
 
-
 ## 3 EXPLICACIÓN DEL PROCEDIMIENTO
 
-Materiales y equipos
+3.1. Materiales y equipos
 
 ![T1](https://user-images.githubusercontent.com/84425276/121115381-a2058200-c7da-11eb-9534-f9a6ea2b5f66.PNG)
 
@@ -23,44 +23,71 @@ Materiales y equipos
 
 ![image](https://user-images.githubusercontent.com/84458025/121122371-f282dc80-c7e6-11eb-9643-070593f7d7fc.png)
 
+3.2. PROCEDIMIENTO
 
-
-PROCEDIMIENTO
-
-Arme el circuito que se muestra en la figura 1.1. 
+3.2.1. Arme el circuito que se muestra en la figura 1.1. 
 
 ![F1 1](https://user-images.githubusercontent.com/84425276/121115517-d1b48a00-c7da-11eb-8a47-5ba6397d388f.PNG)
 
+3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de lasmedciones en la tabla 1.1.
+
+3.2.3. Verifique si se cumple la Ley de Kirchhof de Voltajes en cada trayectoria cerrada, considerando las levaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. A note los resultados en la tabla 1.2.
+
+3.2.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+
 ## 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-1.4.1 Circuito Resistivo Mixto armado en Tinkercad.
+4.1 Circuito Resistivo Mixto armado en Tinkercad.
 
 
-1.4.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de lasmedciones en la tabla 1.1.
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del circuito.
 
-
-1.4.3. Verifique si se cumple la Ley de Kirchhof de Voltajes en cada trayectoria cerrada, considerando las levaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. A note los resultados en la tabla 1.2.
-
-
+![T1 1](https://user-images.githubusercontent.com/84425276/121123932-a9805780-c7e9-11eb-8301-867894e22e8e.PNG)
 
 Tabla 1.2.Verificación de la LVK.
-
-
-1.4.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
 
 Tabla 1.3.Verificación de la LCK.
 
 
-1.4.5.Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+4.2. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+Cálculos:
+
+![1](https://user-images.githubusercontent.com/84425276/121124075-eea48980-c7e9-11eb-8d23-48a0508d2a3c.PNG)
+
+![2](https://user-images.githubusercontent.com/84425276/121124085-f3693d80-c7e9-11eb-903f-a5c7566bce75.PNG)
+
+Tenemos tres ecuaciones con tres incógnitas:
+
+![3](https://user-images.githubusercontent.com/84425276/121124134-05e37700-c7ea-11eb-945f-266785ad6740.PNG)
+
+Resolviendo este sistema de tres ecuaciones con tres incógnitas se obtiene los siguientes resultados:
+
+![4](https://user-images.githubusercontent.com/84425276/121124167-13006600-c7ea-11eb-8e8e-4c9322b682af.PNG)
+
+![5](https://user-images.githubusercontent.com/84425276/121124179-185db080-c7ea-11eb-9075-303ccbce34e4.PNG)
 
 ## 5. VIDEO
 
 https://youtu.be/bCQ2LHZooYo
 
 ## 6. CONCLUSIONES
+
+- Los valores de la Tabla 1.1 coinciden con un error mínimo.
+
+- La sumatoria de los voltajes, de la Tabla 1.2, en la trayectoria 1, trayectoria 2 y trayectoria 3 es igual a cero, cumpliendo así la Ley de Kirchhoff de Voltajes.
+
+- El simulador utilizado para medir voltajes y corrientes en las resistencias se volvió inestable, por lo que se recomienda realizar esta práctica con instrumentos reales en el Laboratorio de Circuitos Eléctricos.
+
+
+
+
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
+- De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente. 
+
 
 ## 7. BIBLIOGRAFÍA
 
@@ -69,19 +96,3 @@ Alexander, C. (2006). Fundamentos de Circuitos Eléctricos, 5ta Ed.
 Floyd,T.(2007).Principios de Circuitos Eléctricos, 8va Ed. México:Pearson Educación.
 
 Edminister,J. Nahvi,M. Circuitos Eléctricos, 3ra Ed. España: McGraw-Hill.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 

@@ -39,10 +39,11 @@ Ejemplo practico.
 
 ![image](https://user-images.githubusercontent.com/84458025/121125716-a0dd5080-c7ec-11eb-9955-146c69c9a177.png)
 
-
 3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de lasmedciones en la tabla 1.1.
 
-3.2.3. Verifique si se cumple la Ley de Kirchhof de Voltajes en cada trayectoria cerrada, considerando las levaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. A note los resultados en la tabla 1.2.
+![A](https://user-images.githubusercontent.com/84425276/121133085-89579500-c7f7-11eb-92e3-0815ec5b7bf1.PNG)
+
+3.2.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 3.2.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 

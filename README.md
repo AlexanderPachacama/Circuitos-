@@ -9,6 +9,11 @@
 
 ## 3 EXPLICACIÓN DEL PROCEDIMIENTO
 
+Materiales y equipos
+
+![T1](https://user-images.githubusercontent.com/84425276/121115118-5bb02300-c7da-11eb-9aab-bcc456b25326.PNG)
+
+
 ## 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ## 5. VIDEO

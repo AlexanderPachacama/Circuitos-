@@ -49,12 +49,20 @@ Tabla 1.2.Verificación de la LVK.
 
 ![T1 2](https://user-images.githubusercontent.com/84425276/121124541-bb162f00-c7ea-11eb-8f4e-94a9691a3549.PNG)
 
+![6](https://user-images.githubusercontent.com/84425276/121124977-67f0ac00-c7eb-11eb-870c-d80bb2434061.PNG)
+
+![7](https://user-images.githubusercontent.com/84425276/121124998-6e7f2380-c7eb-11eb-8bd3-13be59acf455.PNG)
+
 Tabla 1.3.Verificación de la LCK.
 
 
 4.2. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
+-	Los valores medidos y los valores calculados coinciden con un mínimo error.
+
 Cálculos:
+
+Tabla 1.1.
 
 ![1](https://user-images.githubusercontent.com/84425276/121124075-eea48980-c7e9-11eb-8d23-48a0508d2a3c.PNG)
 
@@ -69,6 +77,16 @@ Resolviendo este sistema de tres ecuaciones con tres incógnitas se obtiene los 
 ![4](https://user-images.githubusercontent.com/84425276/121124167-13006600-c7ea-11eb-8e8e-4c9322b682af.PNG)
 
 ![5](https://user-images.githubusercontent.com/84425276/121124179-185db080-c7ea-11eb-9075-303ccbce34e4.PNG)
+
+Calculo del Error:
+
+![8](https://user-images.githubusercontent.com/84425276/121125358-0d0b8480-c7ec-11eb-9076-f667a7832b3e.PNG)
+
+![9](https://user-images.githubusercontent.com/84425276/121125372-1563bf80-c7ec-11eb-841c-256ed0bc646e.PNG)
+
+![10](https://user-images.githubusercontent.com/84425276/121125386-198fdd00-c7ec-11eb-9bb0-16219ce80976.PNG)
+
+![11](https://user-images.githubusercontent.com/84425276/121125398-1eed2780-c7ec-11eb-8491-8a8bce23439e.PNG)
 
 ## 5. VIDEO
 

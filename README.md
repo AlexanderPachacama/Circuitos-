@@ -25,6 +25,14 @@ Arme el circuito que se muestra en la figura 1.1.
 
 ## 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+1.4.1 Circuito Resistivo Mixto armado en Tinkercad.
+
+
+1.4.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de lasmedciones en la tabla 1.1.
+
+Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del circuito.
+
+
 ## 5. VIDEO
 
 https://youtu.be/bCQ2LHZooYo

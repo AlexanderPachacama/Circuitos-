@@ -27,9 +27,15 @@
 
 ![image](https://user-images.githubusercontent.com/84458025/121122278-c1a2a780-c7e6-11eb-9bfd-fc21b459f45e.png)
 
+                                          Figura 1: Fuente de voltaje de C.D.
+
 ![image](https://user-images.githubusercontent.com/84458025/121122339-df700c80-c7e6-11eb-8c40-16295388eaed.png)
 
+                                           Figura 2: Multimetro digital 
+
 ![image](https://user-images.githubusercontent.com/84458025/121122371-f282dc80-c7e6-11eb-9643-070593f7d7fc.png)
+
+                                         Figura 3: Protoboard y resistores
 
 3.2. PROCEDIMIENTO
 
@@ -37,17 +43,23 @@
 
 ![F1 1](https://user-images.githubusercontent.com/84425276/121115517-d1b48a00-c7da-11eb-8a47-5ba6397d388f.PNG)
 
-Observamos la figura para determinar que es un circuito mixto un vez determinado esto procedemos a armar el circuitos para lo cual requerimos conocimiento del manejo del protoboard en esta ocasión utilizaremos el simulador tinkercad el cual nos permite tener una simulación cercana a una real, para esto entramos en nuestro navegador y digitaremos la pagina web del simulador, una vez allí no dirigimos a componentes y seleccionaremos lo que vamos a utilizar en este casa seria las resistencias con lo valores determinados en diagrama esquemático y las colocaremos en nuestro protoboard digital el mismo procedimiento seguiríamos en nuestro protoboard ,seguimos en diagrama esquemático y realizamos nuestro circuito una vez terminado realizamos las respectivas mediciones y anotamos en nuestra tabla de datos .  
+Observamos la figura para determinar que es un circuito mixto, un vez determinado esto procedemos armar el circuitos para lo cual requerimos conocimiento del manejo del protoboard en esta ocasión utilizaremos el simulador Tinkercad el cual nos permite tener una simulación cercana a una real, para esto entramos en nuestro navegador y digitaremos la pagina web del simulador, una vez allí no dirigimos a componentes y seleccionaremos lo que vamos a utilizar en este casa seria las resistencias con lo valores determinados en diagrama esquemático y las colocaremos en nuestro protoboard digital el mismo procedimiento seguiríamos en nuestro protoboard ,seguimos en diagrama esquemático y realizamos nuestro circuito una vez terminado realizamos las respectivas mediciones y anotamos en nuestra tabla de datos.  
 
 Ejemplo práctico.
 
 ![image](https://user-images.githubusercontent.com/84458025/121125716-a0dd5080-c7ec-11eb-9955-146c69c9a177.png)
 
+                                        Figura 4: Ejemplo práctico
+
 3.2.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
+![image](https://user-images.githubusercontent.com/84425276/121139042-f0784800-c7fd-11eb-80c3-4fbc28edb21d.png)
+
+                                       Figura 5: Medición de voltaje
 
 ![A](https://user-images.githubusercontent.com/84425276/121133085-89579500-c7f7-11eb-92e3-0815ec5b7bf1.PNG)
 
-![image](https://user-images.githubusercontent.com/84425276/121139042-f0784800-c7fd-11eb-80c3-4fbc28edb21d.png)
+                                       Figura 6: Medición de corriente
 
 3.2.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
@@ -59,6 +71,7 @@ Ejemplo práctico.
 
 ![image](https://user-images.githubusercontent.com/84431598/121126053-26f99700-c7ed-11eb-95e7-9c333d0c4761.png)
 
+                                       Figura 7: Simulación del circuito 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del circuito.
 
@@ -67,10 +80,6 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del ci
 Tabla 1.2.Verificación de la LVK.
 
 ![T1 2](https://user-images.githubusercontent.com/84425276/121124541-bb162f00-c7ea-11eb-8f4e-94a9691a3549.PNG)
-
-![6](https://user-images.githubusercontent.com/84425276/121124977-67f0ac00-c7eb-11eb-870c-d80bb2434061.PNG)
-
-![7](https://user-images.githubusercontent.com/84425276/121124998-6e7f2380-c7eb-11eb-8bd3-13be59acf455.PNG)
 
 Tabla 1.3.Verificación de la LCK.
 
@@ -98,6 +107,12 @@ Resolviendo este sistema de tres ecuaciones con tres incógnitas se obtiene los 
 ![4](https://user-images.githubusercontent.com/84425276/121124167-13006600-c7ea-11eb-8e8e-4c9322b682af.PNG)
 
 ![5](https://user-images.githubusercontent.com/84425276/121124179-185db080-c7ea-11eb-9075-303ccbce34e4.PNG)
+
+Tabla 1.2.
+
+![6](https://user-images.githubusercontent.com/84425276/121208053-63ee7980-c83f-11eb-9119-64ecd052f311.PNG)
+
+![7](https://user-images.githubusercontent.com/84425276/121208090-6c46b480-c83f-11eb-94b1-c6196e27b948.PNG)
 
 Tabla 1.3.
 

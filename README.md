@@ -74,7 +74,8 @@ Tabla 1.2.Verificación de la LVK.
 
 Tabla 1.3.Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/84431598/121182310-92ad2580-c828-11eb-983b-0b265fc98766.png)
+![image](https://user-images.githubusercontent.com/84431598/121183389-a2793980-c829-11eb-853f-a0f434672850.png)
+
 
 ![image](https://user-images.githubusercontent.com/84431598/121182397-abb5d680-c828-11eb-9769-7d918fec7467.png)
 

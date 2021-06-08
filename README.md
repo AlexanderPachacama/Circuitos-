@@ -6,6 +6,8 @@
 
 ## 2 MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/84431598/121117608-070ea700-c7de-11eb-87a2-85e48aab34c9.png)
+
 
 ## 3 EXPLICACIÓN DEL PROCEDIMIENTO
 

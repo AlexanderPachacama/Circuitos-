@@ -33,6 +33,21 @@ Arme el circuito que se muestra en la figura 1.1.
 Tabla 1.1. Resultados obtenidos de voltaje y corriente,  en cada elemento del circuito.
 
 
+1.4.3. Verifique si se cumple la Ley de Kirchhof de Voltajes en cada trayectoria cerrada, considerando las levaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. A note los resultados en la tabla 1.2.
+
+
+
+Tabla 1.2.Verificación de la LVK.
+
+
+1.4.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+
+
+Tabla 1.3.Verificación de la LCK.
+
+
+1.4.5.Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
 ## 5. VIDEO
 
 https://youtu.be/bCQ2LHZooYo

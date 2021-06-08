@@ -111,6 +111,7 @@ Resolviendo este sistema de tres ecuaciones con tres incógnitas se obtiene los 
 Tabla 1.2.
 
 ![6](https://user-images.githubusercontent.com/84425276/121208053-63ee7980-c83f-11eb-9119-64ecd052f311.PNG)
+
 ![7](https://user-images.githubusercontent.com/84425276/121208090-6c46b480-c83f-11eb-94b1-c6196e27b948.PNG)
 
 Tabla 1.3.
